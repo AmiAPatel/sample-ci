@@ -1,3 +1,2 @@
 # sample-ci
-PR builder test
-test
+PR builder
